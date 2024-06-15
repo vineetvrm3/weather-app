@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+Our Weather App, built with React JS, provides users with real-time weather updates. It's a sleek, user-friendly application that allows you to check the current weather conditions for your location or search for weather information in any city worldwide.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Refer to the image below:
 
-## Available Scripts
+<div style="text-align: center;">
+     <img src="./src/images/weatherAppui.png" alt="ui"> 
+</div>
+<br/>
 
-In the project directory, you can run:
+### Set Up Instructions
 
-### `npm start`
+<details>
+<summary>Click to view</summary>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</details>
 
-### `npm test`
+### Assignment Completion Instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+<summary>Functionality</summary>
+<br/>
 
-### `npm run build`
+The app must have the following functionalities:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Search Any City
+- Fetch User's Current Location if user allow to the current Location.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Assignment Completion Checklist
 
-### `npm run eject`
+<details>
+<summary>Click to view</summary>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- I have completed all the functionalities asked in the assignment
+- I have used only the resources (Frameworks, Design files, APIs) mentioned in the assignment
+- I have modified the README.md file based on my assignment instructions
+- I have completed the assignment ON Time
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Quick Tips
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<details>
+<summary>Click to view</summary>
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- axios
+- react-animated-weather
+- react-geolocated
+- react-live-clock
+- react-skycons
+- skycons
+</details>
 
-## Learn More
+### Important Note
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<details>
+<summary>Click to view</summary>
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- api key - 39c535e31c02add71171254880a0bf37
 
-### Code Splitting
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Resources
 
-### Analyzing the Bundle Size
+<details>
+<summary>Data Fetch URLs</summary>
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- https://api.openweathermap.org/data/2.5/
 
-### Making a Progressive Web App
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<details>
+<summary>Colors</summary>
+#fffff
+<br/>
 
-### Advanced Configuration
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<details>
+<summary>Font-families</summary>
 
-### Deployment
+- Roboto
+- sans-serif
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</details>
